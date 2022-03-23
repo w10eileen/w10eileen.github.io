@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1648071756,
+	"version": 1648075618,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -66,7 +66,6 @@
 		"ssr年夜.mp4",
 		"ssr侠客.mp4",
 		"ssr相思.mp4",
-		"ur纯甄.mp4",
-		"片头.mp4"
+		"ur纯甄.mp4"
 	]
 }
