@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1648076188,
+	"version": 1648100710,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,6 +10,7 @@
 		"images/确定1-sheet0.png",
 		"images/取消1-sheet0.png",
 		"images/继续-sheet0.png",
+		"images/ok-sheet0.png",
 		"images/r公子-sheet0.png",
 		"images/r关山-sheet0.png",
 		"images/r小波-sheet0.png",
@@ -38,13 +39,13 @@
 		"images/确定界面2-sheet0.png",
 		"images/结果-sheet0.png",
 		"images/图鉴-sheet0.png",
+		"images/说明-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"r公子.mp4",
 		"r关山酒.mp4",
 		"r惊奇.mp4",
 		"r鲲鹏.mp4",
@@ -55,7 +56,7 @@
 		"r小波.mp4",
 		"r小雪.mp4",
 		"srdoki.mp4",
-		"srkey神.mp4",
+		"srkey神  .mp4",
 		"sr大鱼.mp4",
 		"sr少年.mp4",
 		"sr星河.mp4",
@@ -66,6 +67,8 @@
 		"ssr年夜.mp4",
 		"ssr侠客.mp4",
 		"ssr相思.mp4",
-		"ur纯甄.mp4"
+		"ur纯甄.mp4",
+		"公子.mp4",
+		"片头.mp4"
 	]
 }
